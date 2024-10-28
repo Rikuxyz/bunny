@@ -42,7 +42,7 @@
         "TEXT_LINK": [ "#91a4ff" ],
         "TEXT_NORMAL": [ "#fbfbfb" ],
         "TEXT_MUTED": [ "#929ce7" ],
-        "TEXT_PRIMARY": [ "#B7F4FE" ],
+        "TEXT_PRIMARY": [ "#1a1a1a" ],
         "THREAD_CHANNEL_SPINE": [ "#BBC4F8" ],
         "BG_BASE_PRIMARY": [ "#24232b" ],
         "BG_BASE_SECONDARY": [ "#1c1b22" ],
@@ -182,7 +182,7 @@
         "WHITE_630": "#676977"
     },
     "background": {
-        "blur": 0.5,
+        "blur": 0.1,
         "url": "https://i.imgur.com/YrENRga.png"
     },
     "plus": {
